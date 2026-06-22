@@ -14,6 +14,11 @@ MEx (Multi-modal Exercise) je dataset koji sadrži snimke 30 ispitanika dok rade
 
 Svaki ispitanik radi 7 vežbi, pa ukupno imamo 239 sesija (vežba 4 se radi na obe strane tela).
 
+Originalni dataset je dostupan na [UCI Machine Learning Repository - MEx](https://archive.ics.uci.edu/dataset/500/mex).
+
+#### Licenca i citiranje
+Dataset je licenciran pod [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode) licencom.
+
 ### Šta je urađeno
 
 1. **Učitavanje i vizuelizacija** - učitani su sirovi podaci sa svih senzora i prikazani grafici da se vidi kako izgledaju signali
