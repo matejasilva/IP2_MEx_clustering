@@ -2,6 +2,8 @@
 
 ## Klasterovanje - MEx skup podataka
 
+**Student:** Mateja Milošević 31/2021
+
 Ovaj projekat se bavi klasterovanjem podataka sa senzora koji prate ljude dok rade 7 različitih fizioterapeutskih vežbi. Cilj je da grupišemo pokrete i proverimo da li se naši klasteri poklapaju sa stvarnim vežbama.
 
 ### O datasetu
